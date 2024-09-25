@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Mi Nombre</h1>
+        <h1>Ruben Arreaza</h1>
         <nav>
             <ul>
                 <li><a href="#about">Sobre mí</a></li>
