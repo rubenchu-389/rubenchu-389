@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1>Mi Perfil</h1>
+    <h1>Hola!  Me llamo Ruben Arreaza</h1>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Desarrollador Full Stact en Python</h1>
+        <h1>Desarrollador Full-Stact en Python</h1>
         <nav>
             <ul>
                 <li><a href="#about">Sobre mí</a></li>
@@ -24,13 +24,13 @@
     </section>
     <section id="Bio">
         <h2>Biografia</h2>
-        <p>👋 Hola mi nombre es  Ruben Arreaza, soy un estudiante  de desarrollado full-stack en python y de ciberseguridad, me gusta crear soluciones y resolver los problemas que se me  presentan, tambien me gustan los retos para asi poder aprender de los errores.</p>
-<p> 🌍 Soy de Venezuela pero actualmente radico en Santiago de Chile desde ya hacen mas de 6 años.</p>
-<p>  💼 Actualmente me dedico  al desarrollo de aplicaciones web utilizando tecnologías como Python, Boostrap, Pgadmin y PostgreSQL.</p>
-<p> 🎓 Formacion Academica, tengo formacion academica en comuinicaciones y electronica, soy Tecnico Superior Universitario, graduado desde el 2003 y por los momentos estoy terminando elcurso de dasarrollo Full Stat de Python.</p>
-<p> 🔧 Mis experiencias previas hasta los momentos han sido solo para dearrollar codigo para aplicaciones web ya que en este mundo del desarrollo estoy comenzando perfo con muchas ganas de aprender cada dia  Si ya tienes experiencia, aquí la describirías).</p>
-<p>📫 Me pueden contactar a través de mi correo electrónico  [abajo encuentras el email] o enviándome un mensaje en LinkedIn [abajo encuentras el link]</p>
-   </section>
+        <p>👋 Hola mi nombre es  Ruben Arreaza, soy un estudiante  de desarrollado full-stack en python y de ciberseguridad, me gusta          crear soluciones y resolver los problemas que se me  presentan, tambien me gustan los retos para asi poder aprender de los             errores.</p>
+        <p>🌍 Soy de Venezuela pero actualmente radico en Santiago de Chile desde ya hacen mas de 6 años.</p>
+        <p>💼 Actualmente me dedico  al desarrollo de aplicaciones web utilizando tecnologías como Python, Boostrap, Pgadmin y                 PostgreSQL.</p>
+        <p>🎓 Formacion Academica, tengo formacion academica en comuinicaciones y electronica, soy Tecnico Superior Universitario,             graduado desde el 2003 y por los momentos estoy terminando elcurso de dasarrollo Full Stat de Python.</p>
+        <p>🔧 Mis experiencias previas hasta los momentos han sido solo para dearrollar codigo para aplicaciones web ya que en este            mundo del desarrollo estoy comenzando perfo con muchas ganas de aprender cada dia  Si ya tienes experiencia, aquí la                   describirías).</p>
+        <p>📫 Me pueden contactar a través de mi correo electrónico  [abajo encuentras el email] o enviándome un mensaje en LinkedIn           [abajo encuentras el link]</p>
+    </section>
     <section id="projects">
         <h2>Proyectos</h2>
         <div class="project">
@@ -49,11 +49,10 @@
     <section id="contact">
         <h2>Contacto</h2>
         <p>Linkedin: www.linkedin.com/in/ruben-arreaza-a376a0294</p>
-        <p>Emails: rubenchu389@gmail.com / innovaservices2022@gmail.com</p>
+        <p>Email: rubenchu389@gmail.com / innovaservices2022@gmail.com</p>
     </section>
     <footer>
         <p>© 2024 T.S.U en Cmns y Elect. Ruben Arreaza</p>
-        <a href="https://www.github.com" target="_blank"><i class="fab fa-github" alt="Github"></i></a>
     </footer>
 </body>
 </html>
