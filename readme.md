@@ -34,18 +34,20 @@
     <section id="projects">
         <h2>Proyectos</h2>
         <div class="project">
-            <h3>Proyectos</h3>
-            <p>Proyecto Portfolio</p>
+            <h3>Mi Primer Proyecto</h3>
+            <p>Proyecto_Arriendos</p>
             <a href="https://github.com/rubenchu-389/proyecto_arriendos">Ver proyecto</a>
         </div>
         <!-- Añade más proyectos aquí -->
     </section>
     <section id="contact">
         <h2>Contacto</h2>
-        <p>Linkedin: www.linkedin.com/in/ruben-arreaza-a376a0294</p>
+        <p>Linkedin: www.linkedin.com/in/ruben-arreaza-a376a0294</p>.
+         <p>Emails: rubenchu389@gmail.com / innovaservices2022@gmail.com</p>
     </section>
     <footer>
         <p>© 2024 T.S.U en Cmns y Elect. Ruben Arreaza</p>
+        <a href="https://www.github.com" target="_blank"><i class="fab fa-github" alt="Github"></i></a>
     </footer>
 </body>
 </html>
