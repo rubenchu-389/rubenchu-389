@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1>Hola!  Me llamo Ruben Arreaza</h1>
+    <h1>Hola..!  Me llamo Ruben Arreaza</h1>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Desarrollador Full-Stact en Python</h1>
+        <h1>Estudiante de desarrollo Full-Stact en Python y aplicaciones web</h1>
         <nav>
             <ul>
                 <li><a href="#about">Sobre mí</a></li>
@@ -20,11 +20,11 @@
     </header>
     <section id="about">
         <h2>Sobre mí</h2>
-        <p>Estuandiante de ciberseguridad y desarrollo de aplicaciones, apasionado por la tecnologia, dispuesto por aprender cada dia de las nuevas tendencias tecnologicas para asi de esa manera porder colaborar con este medio tan amplio y seguir adquiriendo mas conocimientos</p>
+        <p>Estuandiante de ciberseguridad y desarrollo de aplicaciones, apasionado por la tecnologia, dispuesto por aprender cada dia          de las nuevas tendencias tecnologicas para asi de esa manera porder colaborar con este medio tan amplio y seguir adquiriendo           mas conocimientos</p>
     </section>
     <section id="Bio">
         <h2>Biografia</h2>
-        <p>👋 Hola mi nombre es  Ruben Arreaza, soy un estudiante  de desarrollado full-stack en python y de ciberseguridad, me gusta          crear soluciones y resolver los problemas que se me  presentan, tambien me gustan los retos para asi poder aprender de los             errores.</p>
+        <p>👋 Hola mi nombre es  Ruben Arreaza, soy  estudiante de desarrollo full-stack en python y de ciberseguridad, me gusta               crear soluciones y resolver los problemas que se me  presentan, tambien me gustan los retos para asi poder aprender de los             errores.</p>
         <p>🌍 Soy de Venezuela pero actualmente radico en Santiago de Chile desde ya hacen mas de 6 años.</p>
         <p>💼 Actualmente me dedico  al desarrollo de aplicaciones web utilizando tecnologías como Python, Boostrap, Pgadmin y                 PostgreSQL.</p>
         <p>🎓 Formacion Academica, tengo formacion academica en comuinicaciones y electronica, soy Tecnico Superior Universitario,             graduado desde el 2003 y por los momentos estoy terminando elcurso de dasarrollo Full Stat de Python.</p>
