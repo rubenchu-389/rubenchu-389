@@ -42,8 +42,8 @@
     </section>
     <section id="contact">
         <h2>Contacto</h2>
-        <p>Linkedin: www.linkedin.com/in/ruben-arreaza-a376a0294</p>.
-         <p>Emails: rubenchu389@gmail.com / innovaservices2022@gmail.com</p>
+        <p>Linkedin: www.linkedin.com/in/ruben-arreaza-a376a0294</p>
+        <p>Emails: rubenchu389@gmail.com / innovaservices2022@gmail.com</p>
     </section>
     <footer>
         <p>© 2024 T.S.U en Cmns y Elect. Ruben Arreaza</p>
