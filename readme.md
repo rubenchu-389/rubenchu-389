@@ -36,7 +36,6 @@
         <div class="project">
             <h3>Mi Primer Proyecto</h3>
             <p>Proyecto_Arriendos</p>
-            <a href="https://github.com/rubenchu-389/proyecto_arriendos">Ver proyecto</a>
         </div>
         <!-- Añade más proyectos aquí -->
     </section>
