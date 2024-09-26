@@ -35,7 +35,7 @@
         <p>Tu información de contacto.</p>
     </section>
     <footer>
-        <p>© 2024 Mi Nombre</p>
+        <p>© 2024 Ruben Arreaza</p>
     </footer>
 </body>
 </html>
