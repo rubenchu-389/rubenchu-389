@@ -9,6 +9,7 @@
 <body>
     <header>
         <h1>Estudiante de desarrollo Full-Stact en Python y aplicaciones web</h1>
+        <a href="developer.jpg"></a>
         <nav>
             <ul>
                 <li><a href="#about">Sobre mí</a></li>
