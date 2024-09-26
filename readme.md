@@ -29,7 +29,7 @@
 <p>  💼 Actualmente me dedico  al desarrollo de aplicaciones web utilizando tecnologías como Python, Boostrap, Pgadmin y PostgreSQL.</p>
 <p> 🎓 Formacion Academica, tengo formacion academica en comuinicaciones y electronica, soy Tecnico Superior Universitario, graduado desde el 2003 y por los momentos estoy terminando elcurso de dasarrollo Full Stat de Python.</p>
 <p> 🔧 Mis experiencias previas hasta los momentos han sido solo para dearrollar codigo para aplicaciones web ya que en este mundo del desarrollo estoy comenzando perfo con muchas ganas de aprender cada dia  Si ya tienes experiencia, aquí la describirías).</p>
-<p>📫 Me pueden contactar a través de mi correo electrónico en rubenchu389@gmail.com o enviándome un mensaje en LinkedIn [abajo esta el link]</p>
+<p>📫 Me pueden contactar a través de mi correo electrónico  [abajo encuentras el email] o enviándome un mensaje en LinkedIn [abajo encuentras el link]</p>
    </section>
     <section id="projects">
         <h2>Proyectos</h2>
