@@ -36,8 +36,18 @@
         <div class="project">
             <h3>Mi Primer Proyecto</h3>
             <p>Proyecto_Arriendos</p>
+            <a href="https://github.com/rubenchu-389/proyecto_arriendos">Ver proyecto</a>
         </div>
-        <!-- Añade más proyectos aquí -->
+        <div class="project">
+            <h3>Proyecto 1</h3>
+            <p>Proyecto_Viajes_Chile</p>
+            <a href="<div class="project">
+            <h3>Mi Primer Proyecto</h3>
+            <p>Proyecto_Arriendos</p>
+            <a href="https://github.com/rubenchu-389/proyecto_arriendos">Ver proyecto</a>
+        </div>">Ver proyecto</a>
+        </div>
+     <!-- Añade más proyectos aquíhttps://github.com/rubenchu-389/prueba-M1-viajes-chile -->
     </section>
     <section id="contact">
         <h2>Contacto</h2>
