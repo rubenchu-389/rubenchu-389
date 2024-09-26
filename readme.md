@@ -35,7 +35,7 @@
         <p>Linkedin: www.linkedin.com/in/ruben-arreaza-a376a0294</p>
     </section>
     <footer>
-        <p>© 2024 Ruben Arreaza</p>
+        <p>© 2024 T.S.U en Cmns y Elect. Ruben Arreaza</p>
     </footer>
 </body>
 </html>
