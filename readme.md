@@ -32,7 +32,7 @@
     </section>
     <section id="contact">
         <h2>Contacto</h2>
-        <p>Tu información de contacto.</p>
+        <p>Linkedin: www.linkedin.com/in/ruben-arreaza-a376a0294</p>
     </section>
     <footer>
         <p>© 2024 Ruben Arreaza</p>
