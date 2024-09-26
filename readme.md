@@ -24,9 +24,9 @@
     <section id="projects">
         <h2>Proyectos</h2>
         <div class="project">
-            <h3>Proyecto 1</h3>
-            <p>Descripción del proyecto.</p>
-            <a href="enlace-al-proyecto">Ver proyecto</a>
+            <h3>Proyectos</h3>
+            <p>Proyecto Portfolio</p>
+            <a href="#">Ver proyecto</a>
         </div>
         <!-- Añade más proyectos aquí -->
     </section>
