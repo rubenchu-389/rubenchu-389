@@ -21,8 +21,6 @@
     <section id="about">
         <h2>Sobre mí</h2>
         <p>Estuandiante de ciberseguridad y desarrollo de aplicaciones, apasionado por la tecnologia, dispuesto por aprender cada dia          de las nuevas tendencias tecnologicas para asi de esa manera porder colaborar con este medio tan amplio y seguir adquiriendo mas conocimientos</p>
-        <a img href="https://img.shields.io/badge/just%20the%20message-8A2BE2"></a>
-        <a[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)></a>
     </section>
     <section id="Bio">
         <h2>Biografia</h2>
