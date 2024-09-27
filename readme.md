@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>ESTUDIANTE DE DESARROLLO DE APLICACIONES FULL STACK PYTHON</h1>
+        <h1>Estudiante de Desarrollo de Aplicaciones Full Stack Python</h1>
         <a href="developer.jpg"></a>
         <nav>
             <ul>
