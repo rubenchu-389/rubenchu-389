@@ -21,7 +21,7 @@
     <section id="about">
         <h2>Sobre mí</h2>
         <p>Estuandiante de ciberseguridad y desarrollo de aplicaciones, apasionado por la tecnologia, dispuesto por aprender cada dia          de las nuevas tendencias tecnologicas para asi de esa manera porder colaborar con este medio tan amplio y seguir adquiriendo mas conocimientos</p>
-         <img src="images/mi-imagen.jpg" alt="Descripción de la imagen">
+         <img src="images/mi-imagen.jpg" alt="developer.jpg">
     </section>
     <section id="Bio">
         <h2>Biografia</h2>
